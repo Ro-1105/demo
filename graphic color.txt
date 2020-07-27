@@ -1,0 +1,31 @@
+GRAPHIC COLOR:
+
+COLOR THEORY:
+
+HUE
+SATURATION
+VALUE
+
+1. HUE-it is the easy one it basically just another word for "color".
+
+2. SATURATION -it refers to intensity,whether the color appears more subtle or vibrate.
+
+3. value - it has to do with how dark or light the color is, ranging from black to white.
+
+color harmony-combining of colors.
+we can do that easily by using the easiest formula is monochromatic .
+
+monochromatic is nothing but the it uses only the one color and hue.
+
+analogous- uses colors that are next to each other on the wheel.
+
+complementary - they are opposite to each other on the wheel.
+
+split complementary- uses the color scheme on either side of complement.
+
+triadic - it uses the three colors that are evenly spaced, forming a perfect triangle.
+
+tetradic- it forms the rectangle on the wheel,using not one but two complementary.
+
+
+readability is an important factor in any design. it should be legible.
